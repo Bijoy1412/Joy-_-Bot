@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "Raffie-BOT",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100065050393649",
-    "100005938666995"
+    "100015509204017",
+    ""
   ],
   "ADMINBOT": [
-    "100065050393649",
-    "100005938666995"
+    "100015509204017",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
